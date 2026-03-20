@@ -4,7 +4,7 @@ Very powerful compile-time encryption of strings and constants with control flow
 ---
 
 # Introduction
-Building on existing projects such as xorstr and oxorany—each with its own advantages (the former being lightweight, the latter highly complex)—RawlenString is a heavyweight tool for obfuscating and scrambling strings at compile time.
+Building on existing projects such as xorstr and oxorany - each with its own advantages (the former being lightweight, the latter highly complex), RawlenString is a heavyweight tool for obfuscating and scrambling strings at compile time.
 
 * All things considered, I think this is the perfect balance!
 
